@@ -1,6 +1,5 @@
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/ucrea.jpg" width="200" height="150"> <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/eg.jpg" width="250" height="100"> <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/ucr.jpg" width="200" height="150"> <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/iica.png" width="200" height="150">
 
-![alt text](https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/ucrea.jpg)
 
 <h1> Introducción al uso de imágenes de Radar de Apertura Sintética aplicado a la agricultura</h1> 
 <h2> Manual básico de introducción a SNAP</h2> 
@@ -44,7 +43,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 
 <p>Para este ejercicio se utilizará una imagen radar de apertura sintética tipo GRD de Sentinel-1, estas se pueden obtener de forma gratuita en los repositorios de información Alaska Satellite Facility Vertex y Copernicus Open Access Hub, en ambos casos se debe crear -en caso de no tenerse- una cuenta de acceso que permite descargar información satelital a nivel global.</p>
 
-<h4 ">Alaska Satellite Facility Vertex</h4> 
+<h4 Alaska Satellite Facility Vertex</h4> 
 <p> Buscador de datos:<p>  <a href="https://search.asf.alaska.edu/#/" target="_blank">https://search.asf.alaska.edu/#/</a>
 <p> Registro de cuenta:<p>  <a href="https://urs.earthdata.nasa.gov/users/new" target="_blank">https://urs.earthdata.nasa.gov/users/new</a>
 
