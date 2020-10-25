@@ -62,7 +62,7 @@
 <h4 id="Sección3">Fig. 1. Interfaz de la vista general de SNAP.</h4>
 
 Abrir archivos en SNAP
-<p>Los archivos se pueden abrir mediante: File/Open Product… o seleccionando <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig18.png"> (Fig 2).</p> 
+<p>Los archivos se pueden abrir mediante: File/Open Product… o seleccionando <img src="Fig18.png"> (Fig 2).</p> 
 
 <img src="Fig2.jpg">
 
