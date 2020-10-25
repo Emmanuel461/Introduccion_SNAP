@@ -162,7 +162,5 @@ Abrir archivos en SNAP
 
 
 
-[![Introducción a SNAP](Fig19.png)](https://www.youtube.com/watch?v=16UymQJLPG0&t=1s&ab_channel=CURSOSAR-GEOGRAF%C3%8DA)
-
-[![Introducción a SNAP](Fig19.png)](https://www.youtube.com/watch?v=16UymQJLPG0&t=1s&ab_channel=CURSOSAR-GEOGRAF%C3%8DA "RMI Fibonacci Java") 
-
+<iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe> 
+ 
