@@ -36,7 +36,7 @@
 
 
 
-<h3>2.1 Datos a descargar</h3>
+<p><h3>2.1 Datos a descargar</h3></p>
 
 <p>Los datos a utilizar en este ejercicio se pueden descargar en el siguiente link:</p> <p><a href="https://www.dropbox.com/sh/xb6nb8qwva3e0l8/AACgAV2tx4xtUFa1QtDZKZxUa?dl=0" target="_blank">https://www.dropbox.com/sh/xb6nb8qwva3e0l8/AACgAV2tx4xtUFa1QtDZKZxUa?dl=0</a></p>
 
