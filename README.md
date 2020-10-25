@@ -27,7 +27,7 @@
 <p>La descarga del software SNAP se puede realizar en la siguiente dirección electrónica</p> 
 <p><a href="http://step.esa.int/main/download/snap-download/" target="_blank">http://step.esa.int/main/download/snap-download/</a></p> 
  
-  
+ 
 <h2 id="Sección2">2. Objetivos de aprendizaje</h2> 
 
 <li>Explorar la interfaz del software SNAP.</li>
@@ -160,4 +160,5 @@ Abrir archivos en SNAP
 <p>Para más detalles puede ver el siguiente video tutorial, donde se ilustran los pasos para ejecutar lo mostrado en este manual</p>
 
 
+<iframe> width="420" height="315"src="https://www.youtube.com/watch?v=16UymQJLPG0&t=1s&ab_channel=CURSOSAR-GEOGRAF%C3%8DA" </iframe>
 
