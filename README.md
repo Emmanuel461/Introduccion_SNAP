@@ -1,15 +1,18 @@
+<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/ucrea.jpg" width="200" height="150">    <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/eg.jpg" width="250" height="100">    <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/ucr.jpg" width="200" height="150">    <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/iica.png" width="200" height="150">
 
 
+<h1 style="font-size:300%;">
 
-<h1> Introducción al uso de imágenes de Radar de Apertura Sintética aplicado a la agricultura</h1> 
-<h2> Manual básico de introducción a SNAP</h2> 
 
-<p>Este manual fue elaborado por la Escuela de Geografía de la Universidad de Costa Rica, para el cual colaboraron Jesús Céspedes-Rivera y Cristian Aguilar-Barboza en calidad de asistentes avanzados del proyecto "Transformación digital: Incorporación de tecnología SAR en la gestión de riesgos, agricultura y recursos naturales para Centroamérica", en el marco del proyecto UCREA-IICA.
-Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado por MSc María José Molina Montero. Para mayor información contactar a maria.molinamontero@ucr.ac.cr .</p>
+<h1>Introducción al uso de imágenes de Radar de Apertura Sintética aplicado a la agricultura</h1> 
+<h2>Manual básico de introducción a SNAP</h2> 
+
+<p>Este manual fue elaborado por la Escuela de Geografía de la Universidad de Costa Rica, para el cual colaboraron Jesús Céspedes-Rivera y Cristian Aguilar-Barboza en calidad de asistentes avanzados del proyecto "Transformación digital: Incorporación de tecnología SAR en la gestión de riesgos, agricultura y recursos naturales para Centroamérica", en el marco del proyecto UCREA-IICA.</p>
+<p>Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado por MSc María José Molina Montero. Para mayor información contactar a maria.molinamontero@ucr.ac.cr .</p>
 
  
 
-<p> Índice </p> 
+<p>Índice</p> 
 
 
 <li><a href="#Sección1">1. Prerrequisitos</a></li>
@@ -23,7 +26,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
  
 <p>Para ejecutar esta rutina el usuario debe instalar previamente el software Sentinel Toolbox (SNAP), el cual es un software de procesamiento para el análisis y observación de la tierra, con herramientas enfocadas en extensibilidad de datos, portabilidad, procesamiento en marcos gráficos, entre otras herramientas (ESA, 2020).</p>
 
-<p> La descarga del software SNAP se puede realizar en la siguiente dirección electrónica </p> 
+<p>La descarga del software SNAP se puede realizar en la siguiente dirección electrónica</p> 
 <p><a href="http://step.esa.int/main/download/snap-download/" target="_blank">http://step.esa.int/main/download/snap-download/</a></p> 
  
   
@@ -44,21 +47,21 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 <p>Para este ejercicio se utilizará una imagen radar de apertura sintética tipo GRD de Sentinel-1, estas se pueden obtener de forma gratuita en los repositorios de información Alaska Satellite Facility Vertex y Copernicus Open Access Hub, en ambos casos se debe crear -en caso de no tenerse- una cuenta de acceso que permite descargar información satelital a nivel global.</p>
 
 <h4>Alaska Satellite Facility Vertex</h4> 
-<p> Buscador de datos:<p>  <a href="https://search.asf.alaska.edu/#/" target="_blank">https://search.asf.alaska.edu/#/</a>
-<p> Registro de cuenta:<p>  <a href="https://urs.earthdata.nasa.gov/users/new" target="_blank">https://urs.earthdata.nasa.gov/users/new</a>
+<p>Buscador de datos:<p><a href="https://search.asf.alaska.edu/#/" target="_blank">https://search.asf.alaska.edu/#/</a></p>
+<p>Registro de cuenta:<p><a href="https://urs.earthdata.nasa.gov/users/new" target="_blank">https://urs.earthdata.nasa.gov/users/new</a></p>
 
 <h4>Copernicus Open Access Hub</h4>  
-<p>Buscador de datos:<p> <a href="https://scihub.copernicus.eu/dhus/#/home" target="_blank">https://scihub.copernicus.eu/dhus/#/home</a>
-<p>Registro de cuenta:<p>  <a href="https://scihub.copernicus.eu/dhus/#/self-registration" target="_blank">https://scihub.copernicus.eu/dhus/#/self-registration</a>
+<p>Buscador de datos:<p><a href="https://scihub.copernicus.eu/dhus/#/home" target="_blank">https://scihub.copernicus.eu/dhus/#/home</a></p>
+<p>Registro de cuenta:<p> <a href="https://scihub.copernicus.eu/dhus/#/self-registration" target="_blank">https://scihub.copernicus.eu/dhus/#/self-registration</a></p>
 
 
 <h2 id="Sección3">3. Interfaz de Usuario del software SNAP</h2>
 
-<p>El espacio de trabajo en SNAP está conformado con un menú de archivos (1), un menú de botones (2), el panel de capas (3), espacio de localización (4) y área de trabajo (5) (Fig 1). </p> 
+<p>El espacio de trabajo en SNAP está conformado con un menú de archivos (1), un menú de botones (2), el panel de capas (3), espacio de localización (4) y área de trabajo (5) (Fig 1).</p> 
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig1.jpg">
 
-<h4 id="Sección3">Fig. 1. Interfaz de la vista general de SNAP.</h4>
+<h4> id="Sección3">Fig. 1. Interfaz de la vista general de SNAP.</h4>
 
 Abrir archivos en SNAP
 <p>Los archivos se pueden abrir mediante: File/Open Product… o seleccionando <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig18.png"> (Fig 2).</p> 
@@ -92,7 +95,7 @@ Abrir archivos en SNAP
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig7.png">
 <h4 id="Sección3">Fig 7. Añadir ventanas a la interfaz de inicio de SNAP.</h4>
 
-<p> El software contiene una caja de herramienta/Toolbox para el preprocesamiento y procesamiento especializado de imágenes radar (Radar) (Fig 8).</p>
+<p>El software contiene una caja de herramienta/Toolbox para el preprocesamiento y procesamiento especializado de imágenes radar (Radar) (Fig 8).</p>
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig8.png">
 <h4 id="Sección3">Fig 8. Toolbox Radar en SNAP.</h4>
 
@@ -100,11 +103,11 @@ Abrir archivos en SNAP
 
 <p>Los sensores radar envían pulsos laterales hasta la superficie del terreno, donde parte de la señal emitida regresa al sensor, este retorno de la señal se conoce como retrodispersión. La intensidad de la retrodispersión está directamente relacionada con el tipo de cobertura y sus características, permitiendo así la clasificación y evaluación del estado de las coberturas.</p>
 
-<p> Se suelen distinguir tres grandes tipos de retrodispersión:</p>
-</p><li>1. Retrodispersión especular (superficies lisas/aguas abiertas)</li>
-<li>2. Retrodispersión por volumen (dosel del bosque)</li>
-<li>3. Retrodispersión por doble rebote (bosques/ infraestructura/ suelos muy rugosos y húmedos)</li>
-</p>
+<p>Se suelen distinguir tres grandes tipos de retrodispersión:</p>
+<p><li>1. Retrodispersión especular (superficies lisas/aguas abiertas)</li></p>
+<p><li>2. Retrodispersión por volumen (dosel del bosque)</li></p>
+<p><li>3. Retrodispersión por doble rebote (bosques/ infraestructura/ suelos muy rugosos y húmedos)</li></p>
+
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig9.png">
 <h4 id="Sección3">Fig 9. Tipos de respuesta en la retrodispersión según características de la cobertura.</h4>
@@ -134,7 +137,7 @@ Abrir archivos en SNAP
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig15.png">
 <h4 id="Sección3">Fig 15. Abrir opción para creación de RGB de la imagen de trabajo.</h4>
 
-<p>En el recuadro que se despliega seleccione en el canal rojo la banda en polarización VV, en canal verde banda en polarización VH y en el canal azul coloque las bandas VV y VH (Fig 16). Las unidades en cada banda se encuentran en decibeles (dB).</p>
+<p>En el recuadro que se despliega seleccione en el canal rojo la banda en polarización VV, en canal verde banda en polarización VH y en el canal azul coloque las bandas VV y VH (Fig 16).Las unidades en cada banda se encuentran en decibeles (dB).</p>
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig16.png">
 <h4 id="Sección3">Fig 16. Crear RGB.</h4>
