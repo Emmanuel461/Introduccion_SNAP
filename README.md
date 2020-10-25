@@ -1,6 +1,6 @@
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/ucrea.JPG" width="200" height="150"><img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/eg.JPG" width="250" height="100"><img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/ucr.JPG" width="200" height="150"><img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/iica.PNG" width="200" height="150">
 
-<img src="Fig1.png">
+<img src="Fig1.jpg">
 
 <h1>Introducción al uso de imágenes de Radar de Apertura Sintética aplicado a la agricultura</h1> 
 <h2>Manual básico de introducción a SNAP</h2> 
