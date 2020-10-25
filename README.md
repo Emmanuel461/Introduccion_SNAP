@@ -1,6 +1,6 @@
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/ucrea.JPG" width="200" height="150"><img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/eg.JPG" width="250" height="100"><img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/ucr.JPG" width="200" height="150"><img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/iica.PNG" width="200" height="150">
+<img src="ucrea.jpg" width="200" height="150"><img src="eg.jpg" width="250" height="100"><img src="ucr.jpg" width="200" height="150"><img src="iica.png" width="200" height="150">
 
-<img src="Fig1.jpg">
+
 
 <h1>Introducción al uso de imágenes de Radar de Apertura Sintética aplicado a la agricultura</h1> 
 <h2>Manual básico de introducción a SNAP</h2> 
@@ -57,44 +57,44 @@
 
 <p>El espacio de trabajo en SNAP está conformado con un menú de archivos (1), un menú de botones (2), el panel de capas (3), espacio de localización (4) y área de trabajo (5) (Fig 1).</p> 
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig1.JPG" />
+<img src="Fig1.jpg" />
 
 <h4 id="Sección3">Fig. 1. Interfaz de la vista general de SNAP.</h4>
 
 Abrir archivos en SNAP
 <p>Los archivos se pueden abrir mediante: File/Open Product… o seleccionando <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig18.png"> (Fig 2).</p> 
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig2.jpg">
+<img src="Fig2.jpg">
 
 <h4 id="Sección3">Fig. 2. Abrir archivos en SNAP.</h4>
 
 <p>Se debe tener claro el tipo de archivo que se desea abrir, en la sección Files of type debe identificar el formato de información que desea manejar(flecha roja) (Fig 3). Finalmente debe seleccionar y abrir el archivo de interés.</p>
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig3.png">
+<img src="Fig3.png">
 <h4 id="Sección3">Fig 3.Búsqueda del archivo de interés y la selección de formato.</h4>
 
 <p>Una vez abierto el archivo de interés en <strong>Product Explorer</strong> se visualiza el archivo de la imagen, este incluye los metadatos de la imagen (<strong>Metadata</strong>), así como las bandas (<strong>Bands</strong>) de la imagen, en este caso, las polarizaciones VV y VH. En la parte inferior de la imagen, en la opción <strong>Worldview</strong>, se muestra la localización del área de estudio (Fig 4).</p>
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig4.jpg">
+<img src="Fig4.jpg">
 <h4 id="Sección3">Fig 4. Resultado de cargar una imagen a SNAP. En el recuadro rojo se marca el espacio que cubre la imagen descargada</h4>
 
 <p>Para visualizar la imagen radar, presione doble click sobre cada una de las bandas <strong>Sigma0_VH y Sigma0_VV</strong> (Fig 5).</p>
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig5.png">
+<img src="Fig5.png">
 <h4 id="Sección3">Fig 5. Cargar imágenes <strong>Sigma0_VH y Sigma0_VV</strong>.</h4>
 
 <p>Las Imágenes desplegadas en la interfaz de SNAP se visualizan en la Fig 6.</p>
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig6.png">
+<img src="Fig6.png">
 <h4 id="Sección3">Fig 6. Visualización de imágenes. La imagen de la izquierda (A) corresponde a <strong>Sigma0_VH</strong>, la imagen derecha (B) corresponde a <strong>Sigma0_VV</strong>.</h4>
 
 <p>En <strong>View/Tool Windows</strong> se puede añadir a la vista de la interfaz diferentes pestañas para analizar u observar los datos de la imagen (Fig 7).</p>
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig7.png">
+<img src="Fig7.png">
 <h4 id="Sección3">Fig 7. Añadir ventanas a la interfaz de inicio de SNAP.</h4>
 
 <p>El software contiene una caja de herramienta/Toolbox para el preprocesamiento y procesamiento especializado de imágenes radar (Radar) (Fig 8).</p>
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig8.png">
+<img src="Fig8.png">
 <h4 id="Sección3">Fig 8. Toolbox Radar en SNAP.</h4>
 
 <h2 id="Sección4">4. Interpretando una imagen radar.</h2>
@@ -107,22 +107,22 @@ Abrir archivos en SNAP
 <p><li>3. Retrodispersión por doble rebote (bosques/ infraestructura/ suelos muy rugosos y húmedos)</li></p>
 
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig9.png">
+<img src="Fig9.png">
 <h4 id="Sección3">Fig 9. Tipos de respuesta en la retrodispersión según características de la cobertura.</h4>
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig10.png">
+<img src="Fig10.png">
 <h4 id="Sección3">Fig 10. Retrodispersión especular (1), de superficie áspera (2) y por volumen (3).</h4>
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig11.png">
+<img src="Fig11.png">
 <h4 id="Sección3">Fig 11. Retrodispersión en superficie áspera en aparente condición de suelo seco.</h4>
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig12.png">
+<img src="Fig12.png">
 <h4 id="Sección3">Fig 12. Retrodispersión de doble rebote en bosque ribereño.</h4>
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig13.png">
+<img src="Fig13.png">
 <h4 id="Sección3">Fig 13. Retrodispersión de doble rebote en área urbana.</h4>
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig14.png">
+<img src="Fig14.png">
 <h4 id="Sección3">Fig 14.Perfil de valores de retrodispersión, se evidencia de forma gráfica la variación en los valores para la polarización VV, retrodispersión especular (1), retrodispersión en superficie áspera (2) y de doble rebote en área urbana (3).</h4>
 
 
@@ -132,15 +132,15 @@ Abrir archivos en SNAP
  
 <p>Para visualizar la imagen SAR en RGB debe presionar click derecho sobre el nombre de la imagen y luego seleccione la opción <strong>Open RGB Image Window</strong>.</p>
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig15.png">
+<img src="Fig15.png">
 <h4 id="Sección3">Fig 15. Abrir opción para creación de RGB de la imagen de trabajo.</h4>
 
 <p>En el recuadro que se despliega seleccione en el canal rojo la banda en polarización VV, en canal verde banda en polarización VH y en el canal azul coloque las bandas VV y VH (Fig 16).Las unidades en cada banda se encuentran en decibeles (dB).</p>
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig16.png">
+<img src="Fig16.png">
 <h4 id="Sección3">Fig 16. Crear RGB.</h4>
 
-<img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig17.png">
+<img src="Fig17.png">
 <h4 id="Sección3">Fig 17. RGB del área de estudio en dB, retrodispersión en superficie áspera <strong>(1)</strong> (ver Fig 9. círculo 2), retrodispersión de doble rebote en cuerpos de agua <strong>(2)</strong> (ver Fig 9, círculo 1) y retrodispersión de doble rebote en ciudad <strong>(3)</strong> (ver Fig 11).</h4>
 
 <h2 id="Sección5">5. Bibliografía</h2>
@@ -160,5 +160,5 @@ Abrir archivos en SNAP
 <p>Para más detalles puede ver el siguiente video tutorial, donde se ilustran los pasos para ejecutar lo mostrado en este manual</p>
 
  
-[![Taller de Introducción a SNAP](https://github.com/Emmanuel461/Introducci-n-a-SNAP/raw/main/Im%C3%A1genes/Fig19.png)](https://www.youtube.com/watch?v=16UymQJLPG0&t=1s&ab_channel=CURSOSAR-GEOGRAF%C3%8DA "Taller de Introducción a SNAP")
+[![Taller de Introducción a SNAP](Fig19.png)](https://www.youtube.com/watch?v=16UymQJLPG0&t=1s&ab_channel=CURSOSAR-GEOGRAF%C3%8DA "Taller de Introducción a SNAP")
 
