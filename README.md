@@ -36,7 +36,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 
 
 
-<h3> 2.1 Datos a descargar</h3> 
+<h3 2.1 Datos a descargar</h3> 
 
 <p>Los datos a utilizar en este ejercicio se pueden descargar en el siguiente link:</p> <a href="https://www.dropbox.com/sh/xb6nb8qwva3e0l8/AACgAV2tx4xtUFa1QtDZKZxUa?dl=0" target="_blank">https://www.dropbox.com/sh/xb6nb8qwva3e0l8/AACgAV2tx4xtUFa1QtDZKZxUa?dl=0</a>
 
@@ -86,7 +86,7 @@ Abrir archivos en SNAP
 <p>Las Imágenes desplegadas en la interfaz de SNAP se visualizan en la Fig 6.</p>
 
 <img src="https://github.com/Emmanuel461/Introducci-n-a-SNAP/blob/main/Im%C3%A1genes/Fig6.png">
-<h4 id="Sección3">Fig 6. Visualización de imágenes. La imagen de la izquierda (A) corresponde a <strong>Sigma0_VH</strong>, la imagen derecha (B) corresponde a<strong>Sigma0_VV</strong>.</h4>
+<h4 id="Sección3">Fig 6. Visualización de imágenes. La imagen de la izquierda (A) corresponde a <strong>Sigma0_VH</strong>, la imagen derecha (B) corresponde a <strong>Sigma0_VV</strong>.</h4>
 
 <p>En <strong>View/Tool Windows</strong> se puede añadir a la vista de la interfaz diferentes pestañas para analizar u observar los datos de la imagen (Fig 7).</p>
 
@@ -126,7 +126,7 @@ Abrir archivos en SNAP
 <h4 id="Sección3">Fig 14.Perfil de valores de retrodispersión, se evidencia de forma gráfica la variación en los valores para la polarización VV, retrodispersión especular (1), retrodispersión en superficie áspera (2) y de doble rebote en área urbana (3).</h4>
 
 
-<h3 ">4.1 RGB de una imagen SAR</h3> 
+<h3 4.1 RGB de una imagen SAR</h3> 
 
 <p>Una forma de discriminar visualmente los distintos tipos de retrodispersión en una escena es mediante la creación de un RGB o combinación de bandas. Es preciso mencionar que los distintos valores de retrodispersión están condicionados por una serie de características como la constante dieléctrica, atmosférica y relacionada con la estructura de la cobertura.
  
@@ -145,9 +145,9 @@ Para visualizar la imagen SAR en RGB debe presionar click derecho sobre el nombr
 
 <h2 id="Sección5">5. Bibliografía</h2>
 
-<p> European Space Agency (ESA). (2020). SNAP STEP. <a href="https://step.esa.int/main/toolboxes/snap/ " target="_blank">https://step.esa.int/main/toolboxes/snap/ </a>
+<p> European Space Agency (ESA). (2020). SNAP STEP. <a href="https://step.esa.int/main/toolboxes/snap/ " target="_blank">https://step.esa.int/main/toolboxes/snap/ </a></p>
 
-Recursos adicionales recomendados:</p>
+<p> Recursos adicionales recomendados:</p>
 
 <p><li><a href="https://www.youtube.com/watch?v=DibAtfHoc6U" target="_blank">https://www.youtube.com/watch?v=DibAtfHoc6U</a></li>
 <li><a href="https://step.esa.int/main/doc/tutorials/" target="_blank">https://step.esa.int/main/doc/tutorials/</a></li>
@@ -161,4 +161,3 @@ Recursos adicionales recomendados:</p>
  
 </p>
 
-[![Taller de Introducción a SNAP](https://github.com/Emmanuel461/Introducci-n-a-SNAP/raw/main/Im%C3%A1genes/Fig19.png)](https://www.youtube.com/watch?v=16UymQJLPG0&t=1s&ab_channel=CURSOSAR-GEOGRAF%C3%8DA "Taller de Introducción a SNAP")
