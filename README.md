@@ -1,9 +1,3 @@
-
-
-
-<h1 style="font-size:300%;">
-
-
 <h1>Introducción al uso de imágenes de Radar de Apertura Sintética aplicado a la agricultura</h1> 
 <h2>Manual básico de introducción a SNAP</h2> 
 
