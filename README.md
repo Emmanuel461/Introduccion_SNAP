@@ -19,7 +19,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 <li><a href="#Sección5">5. Bibliografía</a></li>
 
  
-<h2> id="Sección1">1. Prerrequisitos</h2>
+<h2 id="Sección1">1. Prerrequisitos</h2>
  
 <p>Para ejecutar esta rutina el usuario debe instalar previamente el software Sentinel Toolbox (SNAP), el cual es un software de procesamiento para el análisis y observación de la tierra, con herramientas enfocadas en extensibilidad de datos, portabilidad, procesamiento en marcos gráficos, entre otras herramientas (ESA, 2020).</p>
 
@@ -52,7 +52,7 @@ Este proyecto está coordinado por el Dr Edgar Espinoza Cisneros y co-cordinado 
 <p>Registro de cuenta:<p>  <a href="https://scihub.copernicus.eu/dhus/#/self-registration" target="_blank">https://scihub.copernicus.eu/dhus/#/self-registration</a>
 
 
-<h2> id="Sección3">3. Interfaz de Usuario del software SNAP</h2>
+<h2 id="Sección3">3. Interfaz de Usuario del software SNAP</h2>
 
 <p>El espacio de trabajo en SNAP está conformado con un menú de archivos (1), un menú de botones (2), el panel de capas (3), espacio de localización (4) y área de trabajo (5) (Fig 1). </p> 
 
