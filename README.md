@@ -159,6 +159,8 @@ Abrir archivos en SNAP
 
 <p>Para más detalles puede ver el siguiente video tutorial, donde se ilustran los pasos para ejecutar lo mostrado en este manual</p>
 
- 
-[![Taller de Introducción a SNAP](Fig19.png)](https://www.youtube.com/watch?v=16UymQJLPG0&t=1s&ab_channel=CURSOSAR-GEOGRAF%C3%8DA "Taller de Introducción a SNAP")
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=16UymQJLPG0&t=1s&ab_channel=CURSOSAR-GEOGRAF%C3%8DA">
+</iframe>
+
 
