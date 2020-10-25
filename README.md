@@ -4,7 +4,7 @@
 <h1 style="font-size:300%;">
 
 
-<h1>Introducción al uso de imágenes de Radar de Apertura Sintética aplicado a la agricultura</h1> 
+<h1>Introducción al uso de imágenes de Radar de Apertura Sintética aplicado a la agricultura HOLA</h1> 
 <h2>Manual básico de introducción a SNAP</h2> 
 
 <p>Este manual fue elaborado por la Escuela de Geografía de la Universidad de Costa Rica, para el cual colaboraron Jesús Céspedes-Rivera y Cristian Aguilar-Barboza en calidad de asistentes avanzados del proyecto "Transformación digital: Incorporación de tecnología SAR en la gestión de riesgos, agricultura y recursos naturales para Centroamérica", en el marco del proyecto UCREA-IICA.</p>
